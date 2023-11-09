@@ -1,6 +1,2 @@
-# pytorch-transformer
-Attention is all you need implementation
+# Implementing "Attention is all you need" by Ashish Vasvani et al
 
-YouTube video with full step-by-step implementation: https://www.youtube.com/watch?v=ISNdQcPhsts
-
-# transformers
